@@ -1,4 +1,8 @@
-### Hi there 👋
+
+
+<hr>
+<p align="center">
+  <img src="https://github.com/sashakrippa/sashakrippa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 
 <!--
 **sashakrippa/sashakrippa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
