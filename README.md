@@ -1,4 +1,9 @@
+#### ✨Hey, I'm Sasha and am computer engineering student in Moscow State University currently.
 
+- 🔭 I’m currently working on React.
+- 🌱 I’m currently learning Deep Learning.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love to skim and scan your codes.
 
 <hr>
 <p align="center">
