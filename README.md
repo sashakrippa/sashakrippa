@@ -1,4 +1,6 @@
-#### ✨Hey, I'm Sasha and am computer engineering student in Moscow State University currently.
+#### Hey there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+ ✨I'm Sasha and am computer engineering student in Moscow State University currently.
 
 - 🔭 I’m currently working on React.
 - 🌱 I’m currently learning Deep Learning.
